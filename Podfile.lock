@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (3.1.3)
+  - Mantle (2.0.5):
+    - Mantle/extobjc (= 2.0.5)
+  - Mantle/extobjc (2.0.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - Mantle
+
+SPEC CHECKSUMS:
+  Alamofire: 9f93b56389e48def9220dd57d1f44b1927229a5a
+  Mantle: 1912395033f601de5adc8ee91e48f46e4c7051ad
+
+COCOAPODS: 0.39.0
